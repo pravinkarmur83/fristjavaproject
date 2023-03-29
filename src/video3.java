@@ -9,6 +9,7 @@ public class video3 {
         byte age = 34;
         short num4 = 3423;
         System.out.println( nub3);
+        System.out.println("test for git");
 
     }
 }
